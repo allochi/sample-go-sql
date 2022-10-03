@@ -1,0 +1,5 @@
+[x] connect to databasse (https://github.com/jmoiron/sqlx)
+[x] create a type transaction
+[x] create transactions
+[x] store transactions to database
+[x] read all transactions
